@@ -20,8 +20,12 @@
     "should": "0.6.1",
     "request": "2.9.x",
     "jsontool": "3.2.x",
+<<<<<<< HEAD
     "mkdirp": "0.3.x",
     "stalker": "0.0.x"
+=======
+    "mkdirp": "0.3.x"
+>>>>>>> Added directory creator in processTarget
   },
   "engines": {
     "node": "*"
